@@ -22,3 +22,10 @@ It replicates the UI and design of the Amazon homepage with hover effects, navig
 HTML5 – structure
 
 CSS3 – styling & layout
+
+Preview
+<img width="1900" height="862" alt="Screenshot 2025-08-27 162520" src="https://github.com/user-attachments/assets/41a24ffa-a8eb-46db-a80e-a2aadb5b9429" />
+<img width="1901" height="865" alt="Screenshot 2025-08-27 162543" src="https://github.com/user-attachments/assets/425aa59c-cb3a-431a-8fc7-a47e4d07c958" />
+<img width="1902" height="626" alt="Screenshot 2025-08-27 162603" src="https://github.com/user-attachments/assets/52a2f9ef-ca15-45ad-ba5c-d339a2e9d689" />
+
+
