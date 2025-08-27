@@ -1,4 +1,4 @@
-Amazon Frontend Clone
+#Amazon Frontend Clone
 
 This is a frontend-only clone of the Amazon website, built using HTML, CSS.
 It replicates the UI and design of the Amazon homepage with hover effects, navigation bar, product sections, and footer.
